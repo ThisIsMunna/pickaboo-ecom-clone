@@ -6,6 +6,8 @@ import Card from "./components/Card";
 import "./App.css";
 import Section from "./components/Section";
 import BannerAd from "./components/BannerAd";
+import Footer from "./components/Footer";
+
 
 function App() {
   return (
@@ -33,6 +35,7 @@ function App() {
           <Section />
         </div>
       </div>
+      <Footer/>
     </>
   );
 }
