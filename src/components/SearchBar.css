@@ -1,0 +1,37 @@
+.searchBar{
+    display: flex;
+    max-width: 70rem;
+    width: 100%;
+    margin-top: 3rem;
+    align-items: center;
+}
+
+.logo{
+}
+
+.imgClass{
+    max-width: 8rem;
+    display: flex;
+}
+
+.input{
+    display: flex; 
+    align-items: center;
+    height: 2rem;
+    padding-left: .5rem;
+    padding-right: 30rem;
+    border: 1px solid #DCDCDC;
+}
+
+.inline{
+    display: inline;
+}
+
+.btn{
+    margin-left: .5rem;
+    margin-right: .5rem;
+    height: 2rem;
+    white-space: nowrap;
+    border: none;
+    font-weight: 600;
+}

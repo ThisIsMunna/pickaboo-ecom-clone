@@ -1,0 +1,34 @@
+.card{
+    border: 1px solid #DCDCDC;
+    width: 10rem;
+    height: 18rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.cardImageWrapper{
+    display: flex;
+    height: 50%;
+    justify-content: center;
+}
+
+.cardImg{
+    display: flex;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+.cardTextWrapper{
+
+    text-align: center;
+}
+
+.card{
+}
+
+.cardPrice{
+    margin-top: .5rem;
+    color: #EF4932;
+    font-weight: 700;
+}

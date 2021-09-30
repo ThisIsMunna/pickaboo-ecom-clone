@@ -1,0 +1,19 @@
+.section{
+  margin-bottom: 2rem;
+}
+
+.sectionTitle{
+  border-bottom: .2rem solid #DCDCDC;
+  margin-bottom: 2rem;
+}
+
+.sectionTitle span{
+  font-weight: 600;
+  font-size: 1.5rem;
+  border-bottom: .2rem solid #11A0DB;
+}
+
+.cardContainer{
+  display: flex;
+  justify-content: space-between;
+}

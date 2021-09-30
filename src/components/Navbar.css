@@ -1,0 +1,25 @@
+.container{
+    background-color: #11A0DB;
+    display: flex;
+    justify-content: center;
+}
+
+.buttonContainer{
+    max-width: 70rem;
+    width: 100%;
+}
+
+.navbarButton{
+    color: white;
+    background-color: #11A0DB;
+    border: none;
+    font-size: .8rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+
+.navbarButton:hover{
+    color: #11A0DB;
+    background-color: white;
+}
