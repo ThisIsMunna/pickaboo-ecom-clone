@@ -22,7 +22,10 @@ font-weight: 700;
 .footerOptions{
     display: flex;
     flex-direction: column;
+}
 
+.downloadOptions{
+    display: flex;
 }
 
 a{
@@ -37,4 +40,13 @@ a:hover{
 
 .textCenter{
     text-align: center;
+}
+
+.footerOptionsWrapper{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.logoImg{
+    height: 3rem;
 }
